@@ -6,6 +6,6 @@ while(velocidade < 60) {
 }
 
 
-for(i = 0; i < 100; i++) {
+for(let i = 0; i < 100; i++) {
    console.log(i);
 }
